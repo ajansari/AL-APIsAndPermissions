@@ -1,0 +1,6 @@
+https://api.businesscentral.dynamics.com/v1.0/<user domain name>/api/DSWi/MasterRecords/v1.0/companies(<company id>)/dswiCustomer
+
+https://api.businesscentral.dynamics.com/v1.0/d0050452-21e0-4ac6-b1af-1187f602af7c/api/DSWi/MasterRecords/v1.0/companies(CRONUS%20USA%2C%20Inc.)/dswiCustomer
+
+https://www.youtube.com/watch?v=RTbY4MqaaIQ
+DataAccessIntent = ReadOnly
